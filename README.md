@@ -34,4 +34,37 @@ you _can_ do __it__
 
 # IMAGES & LINK
 ### IMAGE
-![image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fthematter.co%2Flife%2Fhistory-of-thaitea%2F27402&psig=AOvVaw0j7cc-wn9mXQTlLm2vTPtV&ust=1654421070298000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjzyP68k_gCFQAAAAAdAAAAABAD](https://thematter.co/wp-content/uploads/2017/06/%E0%B8%8A%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-cover-content-WEB.png))
+![image](https://cms.dmpcdn.com/food/2021/05/05/00a9fe30-ad7d-11eb-a73b-c395e0dfc07b_original.jpg)
+
+### LINK
+1. [IMAGE](https://cms.dmpcdn.com/food/2021/05/05/00a9fe30-ad7d-11eb-a73b-c395e0dfc07b_original.jpg)
+2. https://cms.dmpcdn.com/food/2021/05/05/00a9fe30-ad7d-11eb-a73b-c395e0dfc07b_original.jpg
+
+# BACKSLASH ESCAPES
+\*This is Asterisk
+
+# CODE BLOCK
+```PHP
+echo "Hello Word"
+```
+---
+insert your `code` here
+
+or insert your ```code``` here
+
+```
+code here
+```
+
+Javascript codeb lock
+
+```js
+// or custom highlight language
+console.log("Hello")
+```
+
+Java code block
+
+```java
+System.out.println("Java highlight");
+```
