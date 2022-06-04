@@ -68,3 +68,23 @@ Java code block
 ```java
 System.out.println("Java highlight");
 ```
+---
+# TASK LISTS
+- [x] This is a complete task 1.
+- [ ] This is a complete task 2.
+- [ ] This is a complete task 3.
+- [ ] This is a complete task 4.
+
+---
+# TABLES
+First Name|Last Name
+----------|----------
+Portita|Marikup
+Portita|Marikup
+Portita|Marikup
+Portita|Marikup
+Portita|Marikup
+
+---
+# EMOJI
+👍 👼 🔤 🥇 🍎
